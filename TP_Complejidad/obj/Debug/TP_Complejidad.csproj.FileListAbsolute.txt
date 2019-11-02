@@ -1,0 +1,67 @@
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.exe.config
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.csprojResolveAssemblyReference.cache
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.Form1.resources
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.Properties.Resources.resources
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.csproj.GenerateResource.Cache
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.exe
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.pdb
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.Core.dll
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.WindowsForms.dll
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.Core.xml
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.WindowsForms.xml
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.exe
+c:\users\maxla\documents\visual studio 2015\Projects\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.pdb
+C:\Users\maxla\Documents\Visual Studio 2015\Projects\TP_Complejidad\TP_Complejidad\bin\Debug\GeoJSON.Net.dll
+C:\Users\maxla\Documents\Visual Studio 2015\Projects\TP_Complejidad\TP_Complejidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxla\Documents\Visual Studio 2015\Projects\TP_Complejidad\TP_Complejidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.exe.config
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.exe
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.pdb
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.exe
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.pdb
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GeoJSON.Net.dll
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.Core.dll
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.Core.xml
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.csprojResolveAssemblyReference.cache
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.Form1.resources
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.Properties.Resources.resources
+C:\Users\maxla\Desktop\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.csproj.GenerateResource.Cache
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.exe.config
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.exe
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.pdb
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.exe
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.pdb
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GeoJSON.Net.dll
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.Core.dll
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.Core.xml
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.csprojResolveAssemblyReference.cache
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.Form1.resources
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.Properties.Resources.resources
+C:\Users\maxla\Desktop\Nueva carpeta\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.csproj.GenerateResource.Cache
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.exe.config
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.exe
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.pdb
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.csprojResolveAssemblyReference.cache
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.Form1.resources
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.Properties.Resources.resources
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.csproj.GenerateResource.Cache
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.exe
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.pdb
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GeoJSON.Net.dll
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.Core.dll
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.Core.xml
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\GMap.NET.WindowsForms.xml
+C:\Users\maxla\Desktop\COMPLEJIDAD-MEJORADO\TP_Complejidad\TP_Complejidad\TP_Complejidad\TP_Complejidad\bin\Debug\Newtonsoft.Json.xml
+C:\Users\maxla\Desktop\TF_ComplejidadAlgoritmica\TF_Software_TSP -Rodrigo Lara\TF_Complejidad\TP_Complejidad\bin\Debug\TP_Complejidad.exe.config
+C:\Users\maxla\Desktop\TF_ComplejidadAlgoritmica\TF_Software_TSP -Rodrigo Lara\TF_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.exe
+C:\Users\maxla\Desktop\TF_ComplejidadAlgoritmica\TF_Software_TSP -Rodrigo Lara\TF_Complejidad\TP_Complejidad\obj\Debug\TP_Complejidad.pdb

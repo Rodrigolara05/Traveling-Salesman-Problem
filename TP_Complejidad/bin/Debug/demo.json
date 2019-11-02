@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.53126621199993,
+          -13.992029756999955
+        ]
+      },
+      "properties": {
+        "UBIGEO": "030704",
+        "DEP": "APURIMAC",
+        "PROV": "GRAU",
+        "DIST": "HUAYLLATI",
+        "CODCP": "683891",
+        "NOMCP": "Huamampallpa",
+        "MNOMCP": "HUAMAMPALLPA",
+        "CAPITAL": "0",
+        "CON_IE": "1",
+        "NIVEL": "G",
+        "CPINEI": "",
+        "CPINEI2": "",
+        "CPINEI_BKP": "",
+        "FUENTE_G": "DRE/UGEL",
+        "Z": 3896,
+        "XGD": -72.531266212,
+        "YGD": -13.992029757,
+        "Y_X_COORD": "-13.992029757-72.5312662119999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.68263125399994,
+          -11.23852661999996
+        ]
+      },
+      "properties": {
+        "UBIGEO": "120608",
+        "DEP": "JUNIN",
+        "PROV": "SATIPO",
+        "DIST": "RIO TAMBO",
+        "CODCP": "683892",
+        "NOMCP": "Campo Verde",
+        "MNOMCP": "CAMPO VERDE",
+        "CAPITAL": "0",
+        "CON_IE": "1",
+        "NIVEL": "G",
+        "CPINEI": "",
+        "CPINEI2": "",
+        "CPINEI_BKP": "",
+        "FUENTE_G": "DRE/UGEL",
+        "Z": 281,
+        "XGD": -73.682631254,
+        "YGD": -11.23852662,
+        "Y_X_COORD": "-11.23852662-73.6826312539999"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.06250833299998,
+          -9.756903332999968
+        ]
+      },
+      "properties": {
+        "UBIGEO": "021014",
+        "DEP": "ANCASH",
+        "PROV": "HUARI",
+        "DIST": "SAN MARCOS",
+        "CODCP": "683916",
+        "NOMCP": "Huallacancha",
+        "MNOMCP": "HUALLACANCHA",
+        "CAPITAL": "0",
+        "CON_IE": "1",
+        "NIVEL": "",
+        "CPINEI": "210140129",
+        "CPINEI2": "",
+        "CPINEI_BKP": "",
+        "FUENTE_G": "INEI",
+        "Z": 4273,
+        "XGD": -77.062508333,
+        "YGD": -9.756903333,
+        "Y_X_COORD": "-9.75690333299997-77.062508333"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.58319426099996,
+          -16.403532688999974
+        ]
+      },
+      "properties": {
+        "UBIGEO": "040104",
+        "DEP": "AREQUIPA",
+        "PROV": "AREQUIPA",
+        "DIST": "CERRO COLORADO",
+        "CODCP": "683917",
+        "NOMCP": "Semirural Pachacutec",
+        "MNOMCP": "SEMIRURAL PACHACUTEC",
+        "CAPITAL": "0",
+        "CON_IE": "1",
+        "NIVEL": "",
+        "CPINEI": "",
+        "CPINEI2": "",
+        "CPINEI_BKP": "",
+        "FUENTE_G": "INEI",
+        "Z": 2294,
+        "XGD": -71.583194261,
+        "YGD": -16.403532689,
+        "Y_X_COORD": "-16.403532689-71.583194261"
+      }
+    }
+  ]
+}
