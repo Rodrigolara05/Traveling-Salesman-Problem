@@ -36,6 +36,8 @@ Si deseas conocer la creación paso a paso del sistema, una explicación mas det
   Programación en nuevas tecnologias,
   Y mas!
   
+* **El problema del TSP - Traveling Salesman Problem || Constraint Programming and Dynamic Programming** -  [Enlace](https://youtu.be/imdeDqnsiAg)
+  
 ## Enlace 🔗
 
 * **Codigo Fuente** -  [Codigo Fuente](https://www.youtube.com/codigofuente)
